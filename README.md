@@ -123,36 +123,6 @@ SafePaws/
 - **GitHub** - Code repository and collaboration
 - **Postman** - API testing and development
 
-## 🤝 Contributing
-
-We welcome contributions from the community! Here's how you can help:
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. **Commit your changes**
-   ```bash
-   git commit -m 'Add some AmazingFeature'
-   ```
-4. **Push to the branch**
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. **Open a Pull Request**
-
-### 📋 Contributing Guidelines
-
-- Follow the existing code style and conventions
-- Write clear, descriptive commit messages
-- Test your changes thoroughly
-- Update documentation as needed
-- Be respectful and constructive in discussions
-
-## 🐛 Bug Reports & Feature Requests
-
-Found a bug or have a feature request? Please create an issue on our [GitHub Issues](https://github.com/Rudranx/SafePaws/issues) page.
 
 ## 📄 License
 
